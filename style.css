@@ -188,7 +188,8 @@ h4{
 }
 .course-img{
     height: 400px;
-    padding: 50px
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 table, td, th {
     border: 1px solid;
@@ -214,7 +215,8 @@ table, td, th {
   /* Contact side css */
   .contact-img{
     height: 400px;
-    padding: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
   }
   .contact-side{
     display: flex;
